@@ -1,0 +1,1337 @@
+{
+  "species": [
+    {
+      "name": "Burans",
+      "botanical": "Rhododendron arboreum",
+      "image": "images/burans.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Least Concern",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Flower",
+        "Leaf",
+        "Root & Rhizome",
+        "Stem & Shoot",
+        "Wood & Timber"
+      ],
+      "products": [
+        "Juice",
+        "Squash",
+        "Wine",
+        "Jams",
+        "Jellies",
+        "Chutneys",
+        "Herbal tea and remedies",
+        "Essential oil",
+        "Fuel"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Burans (NTFP) shows high volume potential and high commercial value across Almora, Bageshwar, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Timru",
+      "botanical": "Zanthoxylum armatum",
+      "image": "images/timru.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Least Concern",
+      "districts": [
+        "Almora"
+      ],
+      "partsUsed": [
+        "Flower",
+        "Leaf",
+        "Seed",
+        "Root & Rhizome",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Timru Spice",
+        "Timru tooth powder",
+        "Herbal products",
+        "Essential oil"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Forward",
+      "volume": "High",
+      "commercialValue": "Medium",
+      "strength": "Timru (NTFP) shows high volume potential and medium commercial value across Almora.",
+      "justification": "Invest in processing, packaging, and market development to capture premiums."
+    },
+    {
+      "name": "Lemon Grass",
+      "botanical": "Cymbopogon flexuosus",
+      "image": "images/lemon-grass.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Root & Rhizome",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Lemon grass essential oil",
+        "oil as an alternative fuel for diesel",
+        "Lemongrass tea"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Lemon Grass (Agro-commodity) shows high volume potential and high commercial value across Almora, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Apricot",
+      "botanical": "Prunus armeniaca",
+      "image": "images/apricot.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Leaf",
+        "Fruit",
+        "Seed",
+        "Wood & Timber"
+      ],
+      "products": [
+        "Apricot oil",
+        "scrub",
+        "jam",
+        "tooth powder"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Apricot (NTFP) shows high volume potential and high commercial value across Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Amla",
+      "botanical": "Phyllanthus emblica",
+      "image": "images/amla.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Leaf",
+        "Fruit",
+        "Seed",
+        "Wood & Timber"
+      ],
+      "products": [
+        "Amla chutney",
+        "candy",
+        "pickle",
+        "churan",
+        "powder",
+        "juice",
+        "sherbet",
+        "medicines"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Amla (NTFP) shows high volume potential and high commercial value across Almora, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Shikakai",
+      "botanical": "Acacia concinna",
+      "image": "images/shikakai.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Least Concern",
+      "districts": [
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Leaf"
+      ],
+      "products": [
+        "Shikakai Hair care",
+        "oil extract",
+        "Herbal Powder",
+        "Shampoo"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Forward",
+      "volume": "High",
+      "commercialValue": "Medium",
+      "strength": "Shikakai (NTFP) shows high volume potential and medium commercial value across Pithoragarh and Tehri Garhwal.",
+      "justification": "Invest in processing, packaging, and market development to capture premiums."
+    },
+    {
+      "name": "Chamomile",
+      "botanical": "Matricaria recutita",
+      "image": "images/chamomile.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Herb",
+      "conservation": "Least Concern",
+      "districts": [
+        "Bageshwar",
+        "Pithoragarh"
+      ],
+      "partsUsed": [
+        "Flower",
+        "Leaf"
+      ],
+      "products": [
+        "Chamomile herbal tea",
+        "flowers"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Chamomile (NTFP) shows high volume potential and high commercial value across Bageshwar and Pithoragarh.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Bael",
+      "botanical": "Aegle marmelos",
+      "image": "images/bael.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Near Threatened",
+      "districts": [
+        "Pauri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Leaf",
+        "Fruit",
+        "Seed",
+        "Root & Rhizome"
+      ],
+      "products": [
+        "Bael juice",
+        "candy",
+        "jam",
+        "powder",
+        "chutney",
+        "medicine"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Bael (NTFP) shows high volume potential and high commercial value across Pauri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Tejpatta",
+      "botanical": "Cinnamomum tamala",
+      "image": "images/tejpatta.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Pauri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Leaf"
+      ],
+      "products": [
+        "Whole dry bay leaves",
+        "Tejpatta powder",
+        "Bay leaf tea"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Tejpatta (NTFP) shows high volume potential and high commercial value across Pauri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Amaltash",
+      "botanical": "Cassia fistula",
+      "image": "images/amaltash.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Least Concern",
+      "districts": [
+        "Pauri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Flower",
+        "Pod"
+      ],
+      "products": [
+        "Amaltash seeds package",
+        "herbal teas",
+        "ayurvedic products"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "Moderate",
+      "commercialValue": "Moderate",
+      "strength": "Amaltash (NTFP) shows moderate volume potential and moderate commercial value across Pauri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Bhringraj",
+      "botanical": "Eclipta alba",
+      "image": "images/bhringraj.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Root & Rhizome",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Bhringraj Hair Oil",
+        "Bhringraj Powder",
+        "Bhringraj Capsules/Tablets",
+        "Bhringraj Shampoo"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "moderate",
+      "commercialValue": "moderate",
+      "strength": "Bhringraj (NTFP) shows moderate volume potential and moderate commercial value across Almora, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Jatropha",
+      "botanical": "Jatropa curcus",
+      "image": "images/jatropha.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Shrub",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Leaf",
+        "Seed",
+        "Wood & Timber"
+      ],
+      "products": [
+        "Biofuel (Biodiesel)",
+        "Soap",
+        "Medicinal Uses"
+      ],
+      "productFocus": "Other Value Chain",
+      "linkage": "Integrated",
+      "volume": "Low",
+      "commercialValue": "Low",
+      "strength": "Jatropha (NTFP) shows low volume potential and low commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Turmeric",
+      "botanical": "Curcuma longa",
+      "image": "images/turmeric.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Climber",
+      "conservation": "Data Deficient",
+      "districts": [
+        "Almora",
+        "Bageshwar"
+      ],
+      "partsUsed": [
+        "Flower",
+        "Leaf",
+        "Root & Rhizome"
+      ],
+      "products": [
+        "Turmeric Powder",
+        "Curcumin Extract",
+        "Turmeric Oil",
+        "Turmeric Capsules/Tablets",
+        "Turmeric Tea/Herbal Infusions",
+        "Turmeric Paste"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "Moderate",
+      "commercialValue": "Moderate",
+      "strength": "Turmeric (NTFP) shows moderate volume potential and moderate commercial value across Almora and Bageshwar.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Reetha",
+      "botanical": "Sapindus mukorossii",
+      "image": "images/reetha.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Leaf",
+        "Fruit",
+        "Seed"
+      ],
+      "products": [
+        "Natural Detergents and Soaps",
+        "Shampoos and Hair Care Products",
+        "Skincare Products",
+        "Herbal Powders and Capsules"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "High",
+      "strength": "Reetha (NTFP) shows low volume potential and high commercial value across Almora, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Sal",
+      "botanical": "Shorea robusta",
+      "image": "images/sal.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Near Threatened",
+      "districts": [
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Wood & Timber",
+        "Resin & Gum"
+      ],
+      "products": [
+        "Furniture",
+        "Construction Material",
+        "Flooring",
+        "Railway Sleepers",
+        "Plywood and Veneers"
+      ],
+      "productFocus": "Fiber & Materials",
+      "linkage": "Backward",
+      "volume": "Moderate",
+      "commercialValue": "High",
+      "strength": "Sal (NTFP) shows moderate volume potential and high commercial value across Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Giloy",
+      "botanical": "Tinospora sinensis",
+      "image": "images/giloy.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Climber",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Root & Rhizome",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Giloy Juice",
+        "Giloy Tablets",
+        "Giloy Powder",
+        "Giloy Tea",
+        "Giloy Face Pack",
+        "Giloy Churna"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "High",
+      "strength": "Giloy (NTFP) shows low volume potential and high commercial value across Almora, Bageshwar, Pithoragarh and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Damask Rose",
+      "botanical": "Rosa damascena",
+      "image": "images/damask-rose.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Shrub",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora"
+      ],
+      "partsUsed": [
+        "Flower"
+      ],
+      "products": [
+        "Rose Oil",
+        "Rose Water",
+        "Rose Extract",
+        "Rose Petal Jam",
+        "Rose Tea",
+        "Rose Fragrance"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "High",
+      "strength": "Damask Rose (NTFP) shows low volume potential and high commercial value across Almora.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Rose Merry",
+      "botanical": "Rosmarinus officinalis",
+      "image": "images/rose-merry.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Flower",
+        "Leaf",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Rosemary Dried Leaves",
+        "Rosemary Extract",
+        "Rosemary Tea",
+        "Rosemary Essential Oil"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "High",
+      "strength": "Rose Merry (NTFP) shows low volume potential and high commercial value across Almora, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Peppermint",
+      "botanical": "Mentha piperita",
+      "image": "images/peppermint.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Flower",
+        "Leaf",
+        "Root & Rhizome",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Peppermint Oil",
+        "Peppermint Tea",
+        "Peppermint Candy",
+        "Peppermint Capsules"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Forward",
+      "volume": "High",
+      "commercialValue": "Low",
+      "strength": "Peppermint (NTFP) shows high volume potential and low commercial value across Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Invest in processing, packaging, and market development to capture premiums."
+    },
+    {
+      "name": "Thyme",
+      "botanical": "Thymus vulgaris",
+      "image": "images/thyme.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora"
+      ],
+      "partsUsed": [
+        "Flower",
+        "Leaf",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Thyme Tea",
+        "Thyme Oil",
+        "Thyme Seasoning",
+        "Thyme Extract",
+        "Herbal Balms",
+        "Thyme Soap"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "High",
+      "strength": "Thyme (NTFP) shows low volume potential and high commercial value across Almora.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Badi Elaichi",
+      "botanical": "Amomum subulatum",
+      "image": "images/badi-elaichi.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Fruit",
+        "Pod"
+      ],
+      "products": [
+        "Ground Black Cardamom",
+        "Whole Black Cardamom",
+        "Black Cardamom Pods",
+        "Black Cardamom Tea",
+        "Spice Blends"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Moderate",
+      "commercialValue": "High",
+      "strength": "Badi Elaichi (NTFP) shows moderate volume potential and high commercial value across Almora, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Ashwagandha",
+      "botanical": "Withania somnifera",
+      "image": "images/ashwagandha.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pithoragarh"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Root & Rhizome"
+      ],
+      "products": [
+        "Ashwagandha Powder",
+        "oil",
+        "capsules",
+        "herbal tea",
+        "extracts",
+        "skin products"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Moderate",
+      "commercialValue": "High",
+      "strength": "Ashwagandha (NTFP) shows moderate volume potential and high commercial value across Almora and Pithoragarh.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Bahera",
+      "botanical": "Terminalia bellirica",
+      "image": "images/bahera.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Shrub",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Fruit"
+      ],
+      "products": [
+        "Bahera powder",
+        "triphala",
+        "bahera oil"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "Moderate",
+      "commercialValue": "Moderate",
+      "strength": "Bahera (NTFP) shows moderate volume potential and moderate commercial value across Almora, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Cinnamon",
+      "botanical": "Cinnamomum verum",
+      "image": "images/cinnamon.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora"
+      ],
+      "partsUsed": [
+        "Bark"
+      ],
+      "products": [
+        "Cinnamon Powder",
+        "sticks",
+        "oil",
+        "capsule sugar",
+        "candy"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Moderate",
+      "commercialValue": "High",
+      "strength": "Cinnamon (NTFP) shows moderate volume potential and high commercial value across Almora.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Haritaki",
+      "botanical": "Terminalia chebula",
+      "image": "images/haritaki.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Fruit",
+        "Seed"
+      ],
+      "products": [
+        "Haritaki Powder",
+        "Capsules/Tablets",
+        "Triphala",
+        "oil tea churna"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "Moderate",
+      "strength": "Haritaki (NTFP) shows low volume potential and moderate commercial value across Almora, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Moringa",
+      "botanical": "Moringa oleifera",
+      "image": "images/moringa.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Seed",
+        "Pod"
+      ],
+      "products": [
+        "Moringa oil",
+        "Powder",
+        "tea",
+        "herbal",
+        "skin care"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Moringa (NTFP) shows high volume potential and high commercial value across Almora and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Neem",
+      "botanical": "Azadirachta indica",
+      "image": "images/neem.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Neem tea",
+        "oil",
+        "hair and skin care",
+        "herbal products"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Neem (NTFP) shows high volume potential and high commercial value across Almora, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Shatavari",
+      "botanical": "Asparagus racemosus",
+      "image": "images/shatavari.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Shrub",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Root & Rhizome"
+      ],
+      "products": [
+        "Shatavari Powder",
+        "Shatavari Capsules",
+        "Shatavari Syrup",
+        "Shatavari Churna"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "Moderate",
+      "strength": "Shatavari (NTFP) shows low volume potential and moderate commercial value across Almora, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Triphala",
+      "botanical": "Formulation: Phyllanthus emblica + Terminalia chebula + Terminalia bellirica",
+      "image": "images/triphala.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Formulation (from Trees)",
+      "conservation": "N/A at formulation level",
+      "districts": [
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Fruit"
+      ],
+      "products": [
+        "Ayurvedic formulation (powder/churna",
+        "tablets",
+        "decoction)"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "High",
+      "strength": "Triphala (Agro-commodity) shows low volume potential and high commercial value across Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Jatamansi",
+      "botanical": "Nardostachys jatamansi",
+      "image": "images/jatamansi.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Herb",
+      "conservation": "Critically Endangered",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Root & Rhizome"
+      ],
+      "products": [
+        "Jatamansi Essential Oil",
+        "Jatamansi Powder",
+        "Jatamansi Capsules/Tablets",
+        "Herbal Teas"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "High",
+      "strength": "Jatamansi (NTFP) shows low volume potential and high commercial value across Almora, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Oregano",
+      "botanical": "Origanum vulgare",
+      "image": "images/oregano.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Herb",
+      "conservation": "Least Concern",
+      "districts": [
+        "Almora",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Flower",
+        "Leaf",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Dried Oregano Leaves",
+        "Oregano Essential Oil"
+      ],
+      "productFocus": "Extracts & Oils",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "Moderate",
+      "strength": "Oregano (Agro-commodity) shows low volume potential and moderate commercial value across Almora, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Curry Leaves",
+      "botanical": "Murraya koenigii",
+      "image": "images/curry-leaves.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Shrub",
+      "conservation": "Not evaluated",
+      "districts": [
+        "Almora"
+      ],
+      "partsUsed": [
+        "Bark",
+        "Leaf",
+        "Root & Rhizome",
+        "Stem & Shoot"
+      ],
+      "products": [
+        "Curry Leaf Powder",
+        "Curry Leaf Oil",
+        "Curry Leaf Tea",
+        "Herbal Hair Products",
+        "Curry Leaf Capsules and Supplements"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "Low",
+      "commercialValue": "Low",
+      "strength": "Curry Leaves (Agro-commodity) shows low volume potential and low commercial value across Almora.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Lichens",
+      "botanical": "Lichens",
+      "image": "images/lichens.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Composite Organism (Lichen)",
+      "conservation": "Species-specific",
+      "districts": [
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Whole Thallus"
+      ],
+      "products": [
+        "Incense/dhoop (jhula)",
+        "perfumes",
+        "dyes; niche pharma"
+      ],
+      "productFocus": "Other Value Chain",
+      "linkage": "Integrated",
+      "volume": "Medium",
+      "commercialValue": "Medium",
+      "strength": "Lichens (NTFP) shows medium volume potential and medium commercial value across Bageshwar, Pauri Garhwal and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Kutki",
+      "botanical": "Picrorhiza kurroa",
+      "image": "images/kutki.jpg",
+      "speciesType": "NTFP",
+      "habitat": "Herb",
+      "conservation": "Endangered",
+      "districts": [
+        "Pithoragarh"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Root & Rhizome"
+      ],
+      "products": [
+        "Kutki Powder",
+        "Kutki Extracts",
+        "Kutki Capsules/Tablets",
+        "syruo",
+        "tea"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "High",
+      "strength": "Kutki (NTFP) shows low volume potential and high commercial value across Pithoragarh.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Finger Millet",
+      "botanical": "Eleusine coracana",
+      "image": "images/finger-millet.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Grain",
+        "Straw"
+      ],
+      "products": [
+        "Grain/flour; bakery/snacks; porridge (ragi roti",
+        "etc.)"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Forward",
+      "volume": "High",
+      "commercialValue": "Medium",
+      "strength": "Finger Millet (Agro-commodity) shows high volume potential and medium commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Invest in processing, packaging, and market development to capture premiums."
+    },
+    {
+      "name": "Barnyard Millet",
+      "botanical": "Echinochloa frumentacea",
+      "image": "images/barnyard-millet.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Grain",
+        "Straw"
+      ],
+      "products": [
+        "Grain/flour; porridge; traditional foods (jhangora kheer/paleu)"
+      ],
+      "productFocus": "Food Ingredients",
+      "linkage": "Integrated",
+      "volume": "Medium",
+      "commercialValue": "Medium",
+      "strength": "Barnyard Millet (Agro-commodity) shows medium volume potential and medium commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Horsegram",
+      "botanical": "Macrotyloma uniflorum",
+      "image": "images/horsegram.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Herb",
+      "conservation": "Least Concern",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Seed",
+        "Straw"
+      ],
+      "products": [
+        "Dal/pulse; flour; livestock feed"
+      ],
+      "productFocus": "Food Ingredients",
+      "linkage": "Backward",
+      "volume": "Low",
+      "commercialValue": "Medium",
+      "strength": "Horsegram (Agro-commodity) shows low volume potential and medium commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Barley",
+      "botanical": "Hordeum vulgare",
+      "image": "images/barley.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Grain",
+        "Straw"
+      ],
+      "products": [
+        "Food grain; malt; flour; beverages"
+      ],
+      "productFocus": "Food Ingredients",
+      "linkage": "Integrated",
+      "volume": "Medium",
+      "commercialValue": "Medium",
+      "strength": "Barley (Agro-commodity) shows medium volume potential and medium commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Amaranth",
+      "botanical": "Amaranthus spp",
+      "image": "images/amaranth.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Herb",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Leaf",
+        "Grain"
+      ],
+      "products": [
+        "Grain/flour; puffed grain; laddus/bars; leafy vegetable"
+      ],
+      "productFocus": "Food Ingredients",
+      "linkage": "Integrated",
+      "volume": "Medium",
+      "commercialValue": "Medium",
+      "strength": "Amaranth (Agro-commodity) shows medium volume potential and medium commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Apple",
+      "botanical": "Malus domestica",
+      "image": "images/apple.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Tree",
+      "conservation": "Not Evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Fruit",
+        "Peel & Pomace"
+      ],
+      "products": [
+        "Fresh fruit; juice/cider; jam/jelly; dried slices"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Apple (Agro-commodity) shows high volume potential and high commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Pear",
+      "botanical": "Pyrus communis",
+      "image": "images/pear.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Tree",
+      "conservation": "Least Concern",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Fruit"
+      ],
+      "products": [
+        "Fresh fruit; juice; jam/jelly; canned"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "High",
+      "commercialValue": "High",
+      "strength": "Pear (Agro-commodity) shows high volume potential and high commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Peach",
+      "botanical": "Prunus persica",
+      "image": "images/peach.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Tree",
+      "conservation": "Data Deficient",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Fruit"
+      ],
+      "products": [
+        "Fresh fruit; jam/jelly; dried (prunes)"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "Medium",
+      "commercialValue": "Medium",
+      "strength": "Peach (Agro-commodity) shows medium volume potential and medium commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Plum",
+      "botanical": "Prunus domestica",
+      "image": "images/plum.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Tree",
+      "conservation": "Least Concern",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Wood & Timber",
+        "Nut & Kernel",
+        "Shell"
+      ],
+      "products": [
+        "Nuts (whole/shelled); oil; timber (regulated)"
+      ],
+      "productFocus": "Extracts & Oils",
+      "linkage": "Backward",
+      "volume": "Medium",
+      "commercialValue": "High",
+      "strength": "Plum (Agro-commodity) shows medium volume potential and high commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Strengthen cultivation, nurseries, and aggregation systems to stabilise supply."
+    },
+    {
+      "name": "Walnut",
+      "botanical": "Juglans regia",
+      "image": "images/walnut.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Tree",
+      "conservation": "Not evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Fruit",
+        "Peel & Pomace"
+      ],
+      "products": [
+        "Fresh fruit; juice/squash; marmalade; essential oil"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "Medium",
+      "commercialValue": "Medium",
+      "strength": "Walnut (Agro-commodity) shows medium volume potential and medium commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    },
+    {
+      "name": "Sweet Orange",
+      "botanical": "Citrus sinensis",
+      "image": "images/sweet-orange.jpg",
+      "speciesType": "Agro-commodity",
+      "habitat": "Tree",
+      "conservation": "Not evaluated",
+      "districts": [
+        "Almora",
+        "Bageshwar",
+        "Pauri Garhwal",
+        "Pithoragarh",
+        "Tehri Garhwal"
+      ],
+      "partsUsed": [
+        "Fruit",
+        "Peel & Pomace"
+      ],
+      "products": [
+        "Fresh fruit; juice/squash; marmalade; essential oil"
+      ],
+      "productFocus": "Beverages & Processed Foods",
+      "linkage": "Integrated",
+      "volume": "Medium",
+      "commercialValue": "Medium",
+      "strength": "Sweet Orange (Agro-commodity) shows medium volume potential and medium commercial value across Almora, Bageshwar, Pauri Garhwal, Pithoragarh and Tehri Garhwal.",
+      "justification": "Coordinate both production and market-side interventions for balanced growth."
+    }
+  ],
+  "recommendations": [
+    {
+      "title": "For Community Enterprises",
+      "content": "<ul class=\"list-disc list-inside space-y-2 text-slate-600\"><li><strong>Build layered commodity clusters:</strong> Anchor operations in lead districts such as Almora (34), Tehri Garhwal (33), Pauri Garhwal (29), Pithoragarh (23), Bageshwar (17) so harvest windows, aggregation points, and compliance support are synchronised across villages.</li><li><strong>Upgrade primary handling around priority parts:</strong> Channel working capital into micro-drying, sorting, and moisture control units focused on leaf (26), bark (13), root & rhizome (13), fruit (13), cutting losses and protecting quality premiums.</li><li><strong>Design community working-capital cushions:</strong> Blend SHG savings, CSR infusions, and credit guarantees to underwrite harvest advances, enabling members to negotiate confidently with large buyers.</li><li><strong>Institutionalise real-time market intelligence:</strong> Nominate marketing stewards to track prices, buyer specs, and compliance shifts so field plans can be adjusted before the season peaks.</li></ul>"
+    },
+    {
+      "title": "For Entrepreneurs",
+      "content": "<ul class=\"list-disc list-inside space-y-2 text-slate-600\"><li><strong>Craft differentiated product portfolios:</strong> Translate the mix of 30 NTFPs and 15 agro-commodities into distinct wellness, gourmet, and regenerative product lines with clear market narratives.</li><li><strong>Invest in value-chain depth:</strong> 28 commodities need forward or integrated support\u2014pair extraction units, cold-press facilities, and packaging lines with long-term raw-material contracts.</li><li><strong>Embed traceability and sustainability:</strong> Capture batch-wise data on origin, plant parts, and conservation status to meet clean label, ESG, and export audit expectations.</li><li><strong>Adopt omnichannel market access:</strong> Combine tourism retail, institutional buyers, and digital marketplaces so volumes can be shifted quickly when seasonal gluts occur.</li></ul>"
+    },
+    {
+      "title": "For Planners & Support Agencies",
+      "content": "<ul class=\"list-disc list-inside space-y-2 text-slate-600\"><li><strong>Tailor policy support by habitat:</strong> With 6 habitat categories represented, extend differentiated extension packages, varietal demonstrations, and climate advisories.</li><li><strong>Strengthen logistics and shared infrastructure:</strong> Budget for aggregation hubs, ambient storage, and digital quality labs so hill-based producers can service urban demand without distress sales.</li><li><strong>Formalise inclusive financing:</strong> Expand interest subvention, risk-sharing facilities, and blended finance pipelines that reward outcome-based milestones like traceability or reduced wild harvest.</li><li><strong>Institutionalise market development platforms:</strong> Convene annual buyer-seller forums, export readiness clinics, and branding accelerators that equip local enterprises to participate in premium value chains.</li></ul>"
+    }
+  ]
+}
